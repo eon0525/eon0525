@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+🔭 I’m HighSchool student
+
+⚡ I have a Cat 
 <!--
 **eon0525/eon0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
