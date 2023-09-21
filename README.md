@@ -7,9 +7,9 @@
 
 ☆⚡ I have a Cat 
 
-☆💬 <a href="https://instagram.com/alpox.dev">
+☆💬 <a href="https://instagram.com/1_q._.p_h">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/1_q._.p_h/"
+        src="http://img.shields.io/badge/-Instagram-black style=flat&logo=Instagram&link=https://www.instagram.com/1_q._.p_h/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
