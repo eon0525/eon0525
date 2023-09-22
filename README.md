@@ -5,7 +5,7 @@
 
 ☆🔭 I’m HighSchool student
 
-☆⚡ I have a Cat 
+☆⚡ I have a Cat :)
 
 ☆💬 <a href="https://instagram.com/1_q._.p_h">
     <img 
