@@ -12,9 +12,7 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/https://www.instagram.com/1_q._.p_h//"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-</a>
-<a href="https://alpox.kr">
-</a>
+
 
 <!--
 **eon0525/eon0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
