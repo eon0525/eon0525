@@ -7,6 +7,8 @@
 
 ☆⚡ I have a Cat :) 
 
+look around my page
+
 ✨ _special_ ✨
 ..
 
