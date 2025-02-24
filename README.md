@@ -19,6 +19,7 @@ look around my page
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/https://www.instagram.com/1_q._.p_h//"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<br>
 [ 주의 ]
 절대절대 이 링크를 클릭하지 마시오.
 -> https://eon0525.github.io/
