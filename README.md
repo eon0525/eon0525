@@ -24,6 +24,7 @@ look around my page
 절대절대 이 링크를 클릭하지 마시오.
 -> https://eon0525.github.io/
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eon0525)](https://velog.io/@eon0525/posts)
 <!--
 **eon0525/eon0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
